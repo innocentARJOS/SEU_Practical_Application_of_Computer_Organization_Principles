@@ -1,0 +1,2 @@
+# SEU_Practical_Application_of_Computer_Organization_Principles
+东南大学计算机专业计算机组成原理实践课任务-2024年版
