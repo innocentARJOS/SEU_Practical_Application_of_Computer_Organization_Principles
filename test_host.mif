@@ -1,0 +1,121 @@
+-- Copyright (C) 1991-2009 Altera Corporation
+-- Your use of Altera Corporation's design tools, logic functions 
+-- and other software and tools, and its AMPP partner logic 
+-- functions, and any output files from any of the foregoing 
+-- (including device programming or simulation files), and any 
+-- associated documentation or information are expressly subject 
+-- to the terms and conditions of the Altera Program License 
+-- Subscription Agreement, Altera MegaCore Function License 
+-- Agreement, or other applicable license agreement, including, 
+-- without limitation, that your use is for the sole purpose of 
+-- programming logic devices manufactured by Altera and sold by 
+-- Altera or its authorized distributors.  Please refer to the 
+-- applicable agreement for further details.
+
+-- Quartus II generated Memory Initialization File (.mif)
+
+WIDTH=8;
+DEPTH=256;
+
+ADDRESS_RADIX=UNS;
+DATA_RADIX=HEX;
+
+CONTENT BEGIN
+	0    :   00;
+	1    :   A0;
+	2    :   00;
+	3    :   93;
+	4    :   00;
+	5    :   A0;
+	6    :   01;
+	7    :   13;
+	8    :   00;
+	9    :   A0;
+	10   :   00;
+	11   :   93;
+	12   :   00;
+	13   :   11;
+	14   :   01;
+	15   :   B3;
+	16   :   40;
+	17   :   21;
+	18   :   82;
+	19   :   33;
+	20   :   40;
+	21   :   11;
+	22   :   06;
+	23   :   33;
+	24   :   00;
+	25   :   10;
+	26   :   E2;
+	27   :   93;
+	28   :   00;
+	29   :   20;
+	30   :   93;
+	31   :   33;
+	32   :   40;
+	33   :   23;
+	34   :   53;
+	35   :   B3;
+	36   :   00;
+	37   :   20;
+	38   :   A4;
+	39   :   B3;
+	40   :   00;
+	41   :   C0;
+	42   :   A4;
+	43   :   33;
+	44   :   00;
+	45   :   60;
+	46   :   B5;
+	47   :   33;
+	48   :   00;
+	49   :   20;
+	50   :   B5;
+	51   :   B3;
+	[52..53]  :   00;
+	54   :   16;
+	55   :   B7;
+	56   :   00;
+	57   :   20;
+	58   :   88;
+	59   :   63;
+	[60..72]  :   00;
+	73   :   20;
+	74   :   C8;
+	75   :   63;
+	76   :   01;
+	77   :   00;
+	78   :   09;
+	79   :   6F;
+	[80..91]  :   00;
+	92   :   0A;
+	93   :   A0;
+	94   :   00;
+	95   :   93;
+	96   :   00;
+	97   :   10;
+	98   :   22;
+	99   :   23;
+	100  :   00;
+	101  :   10;
+	102  :   20;
+	103  :   23;
+	104  :   00;
+	105  :   40;
+	106  :   27;
+	107  :   03;
+	108  :   00;
+	109  :   40;
+	110  :   07;
+	111  :   83;
+	112  :   00;
+	113  :   E0;
+	114  :   08;
+	115  :   33;
+	116  :   00;
+	117  :   F0;
+	118  :   08;
+	119  :   B3;
+	[120..255]  :   00;
+END;
